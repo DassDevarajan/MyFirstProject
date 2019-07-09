@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.Test;
 
+@DisplayName("Basic Calculator")
 class CalculatorTest {
 
 	private Calculator calc;

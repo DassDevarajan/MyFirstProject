@@ -1,2 +1,0 @@
-# MyFirstProject
-My First Project

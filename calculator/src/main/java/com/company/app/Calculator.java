@@ -14,7 +14,6 @@ public class Calculator {
 		return x * y;
 	}
 	
-	//handle division by zero
 	public int divide(int x, int y) {
 		if(y == 0) {
 			System.out.println("Denominator cannot be zero");
